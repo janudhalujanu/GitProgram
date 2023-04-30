@@ -5,6 +5,7 @@ public class WXYZ {
 	public void Test() {
 		System.out.println("bye");
 		System.out.println("hi");
+		System.out.println("ok");
 	}
 	//suni edited
 
